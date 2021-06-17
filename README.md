@@ -1,4 +1,6 @@
 Android Week View
+Everyone, first check out this repo  
+https://github.com/AndroidDeveloperLB/Android-Week-View
 =================
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/Android-Week-View/Lobby)
